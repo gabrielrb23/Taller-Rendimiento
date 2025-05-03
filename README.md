@@ -18,8 +18,8 @@
 ## Compilación
 make
 
-##Ejecucion
+## Ejecucion
 ./lanzador.pl
 
-##Borrar resultados y ejecutables
+## Borrar resultados y ejecutables
 make clean
