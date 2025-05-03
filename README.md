@@ -11,7 +11,8 @@
 | **mainOpenMP.c**   | Programa principal de la variante OpenMP.                                         |
 | **mm_openmp.c**    | Cálculo paralelo con directivas `#pragma omp`.                                    |
 | **Makefile**       | Compila automáticamente las tres versiones.                                       |
-| **lanzador.pl**    | Ejecuta todas las pruebas, promedia 30 repeticiones y guarda los resultados en    |
+| **lanzador.pl**    | Ejecuta todas las pruebas en 30 repeticiones y guarda los resultados              |
+| **Tabla Multiplicacion de Matrices**    |   Alamacena los resultados del experimento                   |
 
 ---
 
